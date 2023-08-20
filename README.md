@@ -28,14 +28,14 @@
 
 | 주차 | Team: OCR | Team: Transformer | Team: SynthText |
 | --- | --- | --- | --- |
-| 1주(7/12) | OT(주제구체화) | OT(주제구체화) | OT(주제구체화) |
-| 2주(7/19) | - | - | SRNet Paper&Code Review |
-| 3주(7/26) | - | - | SRNet Inference |
-| 4주(8/4) | - | - | SRNet Fine tuning & 중간발표 |
-| 5주(8/9) | - | - | SRNet 대체 model 탐색 |
-| 6주(8/16) | - | - | Stroke-Based Scene Text Erasing 구현 + OpenCV 구현 |
-| 7주(8/23) | - | - | Stroke-Based Scene Text Erasing 구현 + OpenCV 구현 |
-| 8주(9/1) | 최종발표 | 최종발표 | 최종발표 |
+| 1주차(7/12) | OT(주제구체화) | OT(주제구체화) | OT(주제구체화) |
+| 2주차(7/19) | - | - | SRNet Paper&Code Review |
+| 3주차(7/26) | - | - | SRNet Inference |
+| 4주차(8/4) | - | - | SRNet Fine tuning & 중간발표 |
+| 5주차(8/9) | - | - | SRNet 대체 model 탐색 |
+| 6주차(8/16) | - | - | Stroke-Based Scene Text Erasing 구현 + OpenCV 구현 |
+| 7주차(8/23) | - | - | Stroke-Based Scene Text Erasing 구현 + OpenCV 구현 |
+| 8주차(9/1) | 최종발표 | 최종발표 | 최종발표 |
 
 
 <br/>
