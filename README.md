@@ -33,8 +33,8 @@
 | 3주(7/26) | - | - | SRNet Inference |
 | 4주(8/4) | - | - | SRNet Fine tuning & 중간발표 |
 | 5주(8/9) | - | - | SRNet 대체 model 탐색 |
-| 6주(8/16) | - | - | Stroke-Based Scene Text Erasing Inference + OpenCV Code 구현 |
-| 7주(8/23) | - | - | Stroke-Based Scene Text Erasing Fine tuning + OpenCV Code 구현 |
+| 6주(8/16) | - | - | Stroke-Based Scene Text Erasing 구현 + OpenCV 구현 |
+| 7주(8/23) | - | - | Stroke-Based Scene Text Erasing 구현 + OpenCV 구현 |
 | 8주(9/1) | 최종발표 | 최종발표 | 최종발표 |
 
 
