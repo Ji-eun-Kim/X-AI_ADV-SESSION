@@ -8,7 +8,7 @@
 ### 프로젝트 진행
 
 | 주차 | Team: OCR | Team: T5 | Team: Erasing+SynthText |
-| --- | --- | --- | --- |
+| :------: | --- | --- | --- |
 | 1주차(7/12) | OT(주제구체화) | OT(주제구체화) | OT(주제구체화) |
 | 2주차(7/19) | OCR 기본 flow 공부 & OCR Paper Review | Transformer Paper Review & 한-영 task training | SRNet Paper&Code Review |
 | 3주차(7/26) | MM OCR Inference | Transformer 한-영 inference 실험 | SRNet Inference |
