@@ -25,8 +25,7 @@
 <img src="https://github.com/Ji-eun-Kim/X-AI_Toy_project/assets/124686375/f4a56b3b-1c62-42fe-af48-b9c8efa7b1fd"> | <img src="https://github.com/Ji-eun-Kim/X-AI_Toy_project/assets/124686375/a148bc40-393a-4c36-92c9-b21aa184368d">
 ---|---|
 
-<img width="611" alt="KakaoTalk_20230901_002124391_10" src="https://github.com/Ji-eun-Kim/Text-Data-Analysis/assets/124686375/58c0a4bd-89cb-4437-8f89-cddec9b61569"> | <img width="611" alt="KakaoTalk_20230901_002124391_11" src="https://github.com/Ji-eun-Kim/Text-Data-Analysis/assets/124686375/20f7c602-7c6a-48d8-8335-9b2c95b9b3f8">
----|---|
+
 
 
 
